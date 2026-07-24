@@ -26,4 +26,9 @@ Pillar mapping (so categories land without guesswork):
 11. 11 Baking Soda Tricks Every Woman Should Know in 2026
 12. 9 Kitchen Ingredients That Replace Half Your Medicine Cabinet
 
-**Status:** in progress
+**Status:** done
+- Titles 1–2: published immediately (2026-07-19) — https://onlyhealth.info/1346/fermented-foods-gut-health-ranked-probiotics/, https://onlyhealth.info/1347/signs-unhealthy-gut-what-to-eat/
+- Titles 3–12: written, categorized, and scheduled 2/day, 2026-07-25 through 2026-07-29 (09:00 + 15:00 UTC each day)
+- Pins: done for titles 1–2 (4 total). Titles 3–12 pins are blocked on Higgsfield credits (balance ran out) — pending refill.
+- New categories created for this batch: Gut Health, Sleep & Stress, Hormone Health, Natural Remedies. "Fitness" pillar reused the existing "Fitness and Exercises" category.
+
